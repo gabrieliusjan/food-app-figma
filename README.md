@@ -1,9 +1,7 @@
 # food-app-figma
 Food Mobile App - UX/UI Design Figma Project.
 
-FIGMA LINK: 
-
-https://www.figma.com/proto/NPX8tsD44Mo9ASk08e6nfu/POS-MOCKUP-V0.1?type=design&node-id=101-3&t=mZAJCaoCBB3Jdzra-0&scaling=scale-down&page-id=101%3A2&starting-point-node-id=101%3A3
+FIGMA LINK: https://www.figma.com/proto/NPX8tsD44Mo9ASk08e6nfu/POS-MOCKUP-V0.1?type=design&node-id=101-3&t=mZAJCaoCBB3Jdzra-0&scaling=scale-down&page-id=101%3A2&starting-point-node-id=101%3A3
 
 
 ![Testing](https://github.com/gabrieliusjan/food-app-figma/assets/144029939/c2cf52cf-c285-4d3e-85f7-b1042f587e5b)
